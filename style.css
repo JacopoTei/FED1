@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Nova+Square&family=Oswald:wght@200;300;400;500;600&family=Playfair+Display:wght@400;500;600;700&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+:root{
+  --color-P : #006494;
+  --color-S : #CAE9FF;
+  --color-A : #FFC20B;
+  --color-C : #00A6FB;
+  --color-D : #003554;
+  --color-E : #F1F2F6;
+  --color-W : #ffffff;
+  --color-B : #000000;
+}
+
+/* ?COLORS */
+.colorP{
+  color: var(--color-P) ;
+}
+.colorS{
+  color: var(--color-S) ;
+}
+.colorA{
+  color: var(--color-A) ;
+}
+.colorC{
+  color: var(--color-C) ;
+}
+.colorD{
+  color: var(--color-D) ;
+}
+.colorE{
+  color: var(--color-E) ;
+}
+.colorW{
+  color: var(--color-W) ;
+}
+.colorB{
+  color: var(--color-B) ;
+}
+.bgP{
+  background-color: var(--color-P) ;
+}
+.bgS{
+  background-color: var(--color-S) ;
+}
+.bgA{
+  background-color: var(--color-A) ;
+}
+.bgC{
+  background-color: var(--color-C) ;
+}
+.bgD{
+  background-color: var(--color-D) ;
+}
+.bgE{
+  background-color: var(--color-E) ;
+}
+.bgW{
+  background-color: var(--color-W) ;
+}
+.bgB{
+  background-color: var(--color-B) ;
+}
+
+.body
+{
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
+
+
+
+.jumbotron {
+  background-image: url('https://wallpapercave.com/wp/wp9348674.jpg');
+  background-size: cover;
+  max-width: 100%;
+  height: 330px;
+  color: #fff;
+}
+
+.fnt1{
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fnt2{
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#categoryList {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Colora il testo di nero */
+#categoryList li a {
+  color: black;
+  text-decoration: none; /* Rimuove il sottolineato dai link */
+}
+
+.categorie {
+  display: flex;
+  justify-content: evenly;
+}
+  
+ 
+
+.card img{
+  background-size: cover
+}
+
+
+.card {
+ 
+  margin: 0 auto; /* Per centrare le card orizzontalmente */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
